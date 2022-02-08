@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.22.0](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-v21.3.1...sdk-codegen-v1.22.0) (2022-02-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* SDK support for 22.0
+
+### Features
+
+* fuzzy JSON value handling for the Swift SDK ([#961](https://www.github.com/looker-open-source/sdk-codegen/issues/961)) ([0b6b696](https://www.github.com/looker-open-source/sdk-codegen/commit/0b6b696742d67d1abc0cf69dfbf820f5a28d0f86))
+* SDK build for 22.0. ([#959](https://www.github.com/looker-open-source/sdk-codegen/issues/959)) ([de651b3](https://www.github.com/looker-open-source/sdk-codegen/commit/de651b373978fd3689429c0cbdb364a2820fe211))
+* SDK support for 22.0 ([5f9930c](https://www.github.com/looker-open-source/sdk-codegen/commit/5f9930c0b0f7bde59f0b9b47f882ae1f3ff9e490))
+
 ### [21.3.1](https://www.github.com/looker-open-source/sdk-codegen/compare/sdk-codegen-v21.2.0...sdk-codegen-v21.3.1) (2022-01-27)
 
 
